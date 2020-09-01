@@ -4,7 +4,7 @@
 
 ---
 
-<div align="center">
+<div align="center">. 
     <p>
         <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=sud">
             <b>Having Tech Interview?</b>
